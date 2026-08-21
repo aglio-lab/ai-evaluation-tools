@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -1034,6 +1034,20 @@
       "primary_url": "https://github.com/apple/ToolSandbox",
       "description": "ToolSandbox, from Apple, is a stateful, conversational, interactive evaluation benchmark for LLM tool-use capabilities.",
       "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "Mendmark",
+      "category": "AI Agent Evaluation",
+      "availability": "open-source",
+      "primary_url": "https://github.com/danielgaskins/mendmark",
+      "description": "Mendmark mutation-tests agent evaluation suites by planting controlled faults in passing tool-use traces and reporting which faults the existing evaluators miss. Case study",
+      "secondary_links": [
+        {
+          "label": "Case study",
+          "url": "https://danielgaskins.com/mendmark.html"
+        }
+      ],
       "status": "active"
     },
     {

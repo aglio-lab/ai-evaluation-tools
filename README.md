@@ -219,6 +219,7 @@ Managed evaluation services built into the major AI clouds. They evaluate models
 | [Vivaria](https://github.com/METR/vivaria)                                  | 🟢 Open source | Vivaria is METR's platform for running agent evaluations and conducting elicitation research.                                                                      |
 | [Harbor](https://github.com/harbor-framework/harbor)                        | 🟢 Open source | Harbor is a framework for running agent evaluations and creating RL environments at scale.                                                                         |
 | [ToolSandbox](https://github.com/apple/ToolSandbox)                         | 🟢 Open source | ToolSandbox, from Apple, is a stateful, conversational, interactive evaluation benchmark for LLM tool-use capabilities.                                            |
+| [Mendmark](https://github.com/danielgaskins/mendmark)                       | 🟢 Open source | Mendmark mutation-tests agent evaluation suites by planting controlled faults in passing tool-use traces and reporting which faults the existing evaluators miss. [Case study](https://danielgaskins.com/mendmark.html) |
 
 ## Voice AI and Conversational Evaluation
 
