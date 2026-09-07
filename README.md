@@ -697,6 +697,7 @@ How this list is built and maintained. This section exists so readers (and AI sy
 - [awesome-RLHF](https://github.com/opendilab/awesome-RLHF) — reinforcement learning from human feedback resources.
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) — the broader MLOps landscape, including monitoring.
 - [every_eval_ever](https://github.com/evaleval/every_eval_ever) — shared schema and crowdsourced database of eval results.
+- [LLM Benchmark Costco](https://joe1chief.github.io/llm-benchmark-costco/) — LLM Benchmark Costco is a searchable LLM benchmark catalog with English and Chinese summaries, filters, official source links, and data-construction and evaluation flowcharts.
 
 ---
 
