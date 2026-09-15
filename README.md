@@ -179,6 +179,7 @@ Managed evaluation services built into the major AI clouds. They evaluate models
 | [LangSmith](https://smith.langchain.com)                                          | 🔒 Commercial  | LangSmith provides tracing and monitoring with online evaluators and alerts (see the [full-stack platforms](#full-stack-llm-evaluation-platforms) section).                                                                                                              |
 | [Arthur](https://www.arthur.ai)                                                   | 🔵 Open core   | Arthur is an AI performance monitoring platform; its open-source [Arthur Bench](https://github.com/arthur-ai/bench) LLM evaluation tool is no longer actively developed.                                                                                                 |
 | [LangKit](https://github.com/whylabs/langkit)                                     | 🟢 Open source | LangKit is an open-source library of text-quality and safety telemetry metrics for LLMs, built on [whylogs](https://github.com/whylabs/whylogs). The hosted WhyLabs platform it fed into has been discontinued (see [Discontinued](#discontinued-and-historical-tools)). |
+| [Speakeasy AI Control Plane](https://www.speakeasy.com/product/ai-control-plane) | 🔒 Commercial  | Speakeasy AI Control Plane centrally governs agent and MCP access with role-scoped permissions and auditable records for tool calls.                                                                                                                           |
 
 ## RAG Evaluation
 
