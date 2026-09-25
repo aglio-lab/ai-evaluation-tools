@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -255,6 +255,15 @@
       "availability": "open-source",
       "primary_url": "https://github.com/confident-ai/deepeval",
       "description": "DeepEval is an open-source LLM evaluation framework (\"Pytest for LLMs\") with 50+ metrics for RAG, agents, multi-turn conversations, safety, and custom criteria, plus CI/CD and benchmark support.",
+      "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "Jev Evidence Kit",
+      "category": "LLM Evaluation Frameworks",
+      "availability": "open-source",
+      "primary_url": "https://github.com/delight0517/jev-evidence-kit",
+      "description": "Jev Evidence Kit is an offline Python utility that compares paired outputs with an exact expected answer and reports token accounting, crediting avoided tokens only when both outputs match.",
       "secondary_links": [],
       "status": "active"
     },
