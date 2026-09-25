@@ -359,6 +359,7 @@ Standard academic **LLM benchmarks** for knowledge, reasoning, math, and instruc
 | [HellaSwag](https://github.com/rowanz/hellaswag)                                                    | 🟢 Open source | HellaSwag is a classic commonsense-reasoning benchmark using adversarially filtered sentence completions.                                                                                 |
 | [WinoGrande](https://github.com/allenai/winogrande)                                                 | 🟢 Open source | WinoGrande is a large-scale Winograd-schema-style benchmark for commonsense pronoun resolution.                                                                                           |
 | [ARC (AI2 Reasoning Challenge)](https://allenai.org/data/arc)                                       | 🟢 Open source | ARC is AI2's grade-school science question benchmark, still common in base-model reports.                                                                                                 |
+| [Decision Bench](https://github.com/atlanai/decision-bench) | 🟢 Open source | Decision Bench evaluates bounded model decisions such as routing, tool selection, and classification, reporting accuracy, calibration, latency, and cost on a frozen public-source corpus with published per-row predictions; the code is MIT-licensed and corpus materials retain their source terms. [Leaderboard](https://decisionbench.ai/). |
 
 ## Coding Benchmarks
 

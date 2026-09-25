@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -1885,6 +1885,20 @@
       "primary_url": "https://allenai.org/data/arc",
       "description": "ARC is AI2's grade-school science question benchmark, still common in base-model reports.",
       "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "Decision Bench",
+      "category": "General Capability Benchmarks",
+      "availability": "open-source",
+      "primary_url": "https://github.com/atlanai/decision-bench",
+      "description": "Decision Bench evaluates bounded model decisions such as routing, tool selection, and classification, reporting accuracy, calibration, latency, and cost on a frozen public-source corpus with published per-row predictions; the code is MIT-licensed and corpus materials retain their source terms. Leaderboard.",
+      "secondary_links": [
+        {
+          "label": "Leaderboard",
+          "url": "https://decisionbench.ai/"
+        }
+      ],
       "status": "active"
     },
     {
