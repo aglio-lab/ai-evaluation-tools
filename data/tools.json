@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -952,6 +952,15 @@
       "availability": "open-source",
       "primary_url": "https://github.com/chen700564/RGB",
       "description": "RGB benchmarks RAG robustness across noise, negative rejection, information integration, and counterfactuals.",
+      "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "RAG Citation Coverage Auditor",
+      "category": "RAG Evaluation",
+      "availability": "open-source",
+      "primary_url": "https://github.com/edilec/rag-citation-coverage-auditor",
+      "description": "RAG Citation Coverage Auditor checks local claim-to-source exports for citation resolution, approval, permissions, freshness, and declared claim support.",
       "secondary_links": [],
       "status": "active"
     },

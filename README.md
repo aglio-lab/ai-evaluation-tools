@@ -203,6 +203,7 @@ Managed evaluation services built into the major AI clouds. They evaluate models
 | [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)                      | 🟢 Open source | FlashRAG is a Python toolkit for reproducing and evaluating RAG research, with 20+ algorithms and 16+ datasets.                                                              |
 | [RAGTruth](https://github.com/ParticleMedia/RAGTruth)                  | 🟢 Open source | RAGTruth is a word-level, hallucination-annotated corpus for training and evaluating trustworthy RAG systems.                                                                |
 | [RGB](https://github.com/chen700564/RGB)                               | 🟢 Open source | RGB benchmarks RAG robustness across noise, negative rejection, information integration, and counterfactuals.                                                                |
+| [RAG Citation Coverage Auditor](https://github.com/edilec/rag-citation-coverage-auditor) | 🟢 Open source | RAG Citation Coverage Auditor checks local claim-to-source exports for citation resolution, approval, permissions, freshness, and declared claim support. |
 
 ## AI Agent Evaluation
 
