@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -1033,6 +1033,15 @@
       "availability": "open-source",
       "primary_url": "https://github.com/apple/ToolSandbox",
       "description": "ToolSandbox, from Apple, is a stateful, conversational, interactive evaluation benchmark for LLM tool-use capabilities.",
+      "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "Twinbay",
+      "category": "AI Agent Evaluation",
+      "availability": "commercial",
+      "primary_url": "https://twinbay.ai",
+      "description": "Twinbay is a hosted service that gives each agent test run private, stateful copies of third-party APIs such as Shopify, Slack and Zendesk, then grades the agent's captured API calls against outcomes written in plain language.",
       "secondary_links": [],
       "status": "active"
     },

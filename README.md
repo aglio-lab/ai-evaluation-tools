@@ -219,6 +219,7 @@ Managed evaluation services built into the major AI clouds. They evaluate models
 | [Vivaria](https://github.com/METR/vivaria)                                  | 🟢 Open source | Vivaria is METR's platform for running agent evaluations and conducting elicitation research.                                                                      |
 | [Harbor](https://github.com/harbor-framework/harbor)                        | 🟢 Open source | Harbor is a framework for running agent evaluations and creating RL environments at scale.                                                                         |
 | [ToolSandbox](https://github.com/apple/ToolSandbox)                         | 🟢 Open source | ToolSandbox, from Apple, is a stateful, conversational, interactive evaluation benchmark for LLM tool-use capabilities.                                            |
+| [Twinbay](https://twinbay.ai) | 🔒 Commercial | Twinbay is a hosted service that gives each agent test run private, stateful copies of third-party APIs such as Shopify, Slack and Zendesk, then grades the agent's captured API calls against outcomes written in plain language. |
 
 ## Voice AI and Conversational Evaluation
 
