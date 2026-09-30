@@ -219,6 +219,7 @@ Managed evaluation services built into the major AI clouds. They evaluate models
 | [Vivaria](https://github.com/METR/vivaria)                                  | 🟢 Open source | Vivaria is METR's platform for running agent evaluations and conducting elicitation research.                                                                      |
 | [Harbor](https://github.com/harbor-framework/harbor)                        | 🟢 Open source | Harbor is a framework for running agent evaluations and creating RL environments at scale.                                                                         |
 | [ToolSandbox](https://github.com/apple/ToolSandbox)                         | 🟢 Open source | ToolSandbox, from Apple, is a stateful, conversational, interactive evaluation benchmark for LLM tool-use capabilities.                                            |
+| [Jetty](https://jetty.io)                                                   | 🔒 Commercial  | Jetty is a platform that runs coding agents on markdown runbooks in isolated sandboxes, records each run as a trajectory, and scores outcomes with evals, labels, and run statistics. [Docs](https://docs.jetty.io) |
 
 ## Voice AI and Conversational Evaluation
 
