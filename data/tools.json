@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -563,6 +563,15 @@
       "availability": "open-source",
       "primary_url": "https://github.com/lm-sys/FastChat",
       "description": "FastChat is LMSYS's platform for serving and evaluating chat models, and the original home of MT-Bench and the Chatbot Arena codebase; development has slowed and it is now mostly of historical reference value.",
+      "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "AI Accuracy Harness",
+      "category": "LLM Evaluation Frameworks",
+      "availability": "open-source",
+      "primary_url": "https://github.com/fusiontechstrategies/AI-Accuracy-Harness",
+      "description": "AI Accuracy Harness is a qualification and routing harness for proposal-only AI workers, with exact provider and model checks, deterministic schemas, fail-closed authority boundaries, tamper-evident evidence, and replayable verification.",
       "secondary_links": [],
       "status": "active"
     },
