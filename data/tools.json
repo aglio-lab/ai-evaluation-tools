@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -1354,6 +1354,15 @@
       "availability": "commercial",
       "primary_url": "https://platform.openai.com/docs/guides/moderation",
       "description": "The OpenAI Moderation endpoint is a free API for text and image safety classification.",
+      "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "ClaimStack Demo",
+      "category": "Guardrails and Runtime Safety",
+      "availability": "open-source",
+      "primary_url": "https://github.com/kyal102/claimstack-demo",
+      "description": "ClaimStack Demo is a standard-library Python example of routing written claims to dimensional-consistency checks or explicit unsupported/needs-data verdicts and sealing the results in hash-stamped receipts; it does not establish scientific truth.",
       "secondary_links": [],
       "status": "active"
     },

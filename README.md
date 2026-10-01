@@ -274,6 +274,7 @@ Testing and monitoring for **voice agents** and multi-turn conversational system
 | [Google Model Armor](https://cloud.google.com/security-command-center/docs/model-armor-overview)    | 🔒 Commercial   | Model Armor is Google Cloud's service for screening LLM prompts and responses for injection, jailbreaks, sensitive data, and harmful content.                              |
 | [Llama Guard](https://github.com/meta-llama/PurpleLlama)                                            | 🟠 Open weights | Llama Guard is Meta's family of downloadable safety classifier models (Llama Guard, Prompt Guard) under the Purple Llama project, released under Meta's community license. |
 | [OpenAI Moderation](https://platform.openai.com/docs/guides/moderation)                             | 🔒 Commercial   | The OpenAI Moderation endpoint is a free API for text and image safety classification.                                                                                     |
+| [ClaimStack Demo](https://github.com/kyal102/claimstack-demo) | 🟢 Open source | ClaimStack Demo is a standard-library Python example of routing written claims to dimensional-consistency checks or explicit unsupported/needs-data verdicts and sealing the results in hash-stamped receipts; it does not establish scientific truth. |
 
 ## Hallucination Detection and Factuality
 
