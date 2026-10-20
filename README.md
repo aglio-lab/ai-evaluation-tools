@@ -616,6 +616,7 @@ Foundational reading for anyone building or choosing evaluation tooling — cite
 - **Judging the judges** — [Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges](https://arxiv.org/abs/2406.12624) (Thakur et al., 2024). Position bias, verbosity bias, and self-preference in LLM judges.
 - **Benchmark contamination** — [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879) (Singh et al., 2025). Systematic distortions in arena-style leaderboards.
 - **Statistical rigor** — [Adding Error Bars to Evals](https://arxiv.org/abs/2411.00640) (Miller, 2024). How to report confidence intervals and significance for LLM evals.
+- **Bayesian evaluation** — [Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://arxiv.org/abs/2510.04265) (Hariri et al., ICLR 2026). Bayes@N estimates model performance and uncertainty from repeated samples with binary or graded outcomes. [Video](https://mohsenhariri.github.io/assets/videos/bayes-at-n/bayes-at-n.mp4). [Code](https://github.com/mohsenhariri/scorio).
 - **Agent evaluation** — [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) (Yao et al., 2024).
 - **Red teaming** — [garak: A Framework for Security Probing Large Language Models](https://arxiv.org/abs/2406.11036) (Derczynski et al., 2024).
 - **Evaluating evaluation** — [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782) (Biderman et al., 2024).
