@@ -274,6 +274,7 @@ Testing and monitoring for **voice agents** and multi-turn conversational system
 | [Google Model Armor](https://cloud.google.com/security-command-center/docs/model-armor-overview)    | 🔒 Commercial   | Model Armor is Google Cloud's service for screening LLM prompts and responses for injection, jailbreaks, sensitive data, and harmful content.                              |
 | [Llama Guard](https://github.com/meta-llama/PurpleLlama)                                            | 🟠 Open weights | Llama Guard is Meta's family of downloadable safety classifier models (Llama Guard, Prompt Guard) under the Purple Llama project, released under Meta's community license. |
 | [OpenAI Moderation](https://platform.openai.com/docs/guides/moderation)                             | 🔒 Commercial   | The OpenAI Moderation endpoint is a free API for text and image safety classification.                                                                                     |
+| [Speakeasy control plane](https://github.com/speakeasy-api/gram) | 🔵 Open core | Speakeasy control plane applies identity-based tool permissions and per-action security policies to gateway-routed MCP calls, with audit logs for runtime review. |
 
 ## Hallucination Detection and Factuality
 
