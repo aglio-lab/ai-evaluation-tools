@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -1033,6 +1033,15 @@
       "availability": "open-source",
       "primary_url": "https://github.com/apple/ToolSandbox",
       "description": "ToolSandbox, from Apple, is a stateful, conversational, interactive evaluation benchmark for LLM tool-use capabilities.",
+      "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "agentest",
+      "category": "AI Agent Evaluation",
+      "availability": "open-source",
+      "primary_url": "https://github.com/srpadmanabhuni/agentest",
+      "description": "agentest is an offline, deterministic runner that returns pass/fail/n-a verdicts for 130 agent checks (the 110-test Agentic AI Test Checklist plus 20 extensions) from OpenTelemetry GenAI traces, A2A AgentCards and MCP tool annotations.",
       "secondary_links": [],
       "status": "active"
     },
