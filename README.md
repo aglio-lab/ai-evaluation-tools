@@ -537,6 +537,8 @@ Tools and research for detecting **benchmark contamination** (test data leaking 
 | [LiveBench](https://github.com/LiveBench/LiveBench)                | 🟢 Open source | LiveBench limits contamination structurally by releasing new questions monthly.                                                                             |
 | [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench)    | 🟢 Open source | LiveCodeBench tags every problem with a release date so models can be scored only on problems published after their training cutoff.                        |
 | [Adding Error Bars to Evals](https://arxiv.org/abs/2411.00640)     | 🟢 Open source | Anthropic's statistical guidance for reporting confidence intervals and significance in LLM evaluations.                                                    |
+| [agentstats](https://github.com/RishabhPande/agentstats) | 🟢 Open source | agentstats analyzes repeated AI-agent benchmark runs with significance tests, run-count planning and leaderboard uncertainty audits; it does not execute agents or establish production performance. |
+
 
 ## Synthetic Data and Test Set Generation
 
