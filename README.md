@@ -526,6 +526,7 @@ Tools that measure **serving performance rather than output quality**: time-to-f
 | [ARC Prize Leaderboard](https://arcprize.org/leaderboard)                                                  | 🟢 Open source | The ARC Prize leaderboard tracks progress on ARC-AGI-1 and ARC-AGI-2.                                                                     |
 | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/)                                            | 🟢 Open source | Aider's leaderboards rank models on polyglot code editing.                                                                                |
 | [Vectara Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)                  | 🟢 Open source | The Hughes Hallucination Leaderboard ranks models by hallucination rate when summarizing documents, scored with HHEM.                     |
+| [AIHOT Model Leaderboard](https://aihot.news/leaderboard) | 📖 Public resource | AIHOT Model Leaderboard combines published third-party benchmark results into overall and capability-specific rankings. |
 
 ## Benchmark Contamination and Evaluation Reliability
 
