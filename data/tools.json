@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-evaluation-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 327,
+  "entry_count": 328,
   "tools": [
     {
       "name": "Confident AI",
@@ -563,6 +563,15 @@
       "availability": "open-source",
       "primary_url": "https://github.com/lm-sys/FastChat",
       "description": "FastChat is LMSYS's platform for serving and evaluating chat models, and the original home of MT-Bench and the Chatbot Arena codebase; development has slowed and it is now mostly of historical reference value.",
+      "secondary_links": [],
+      "status": "active"
+    },
+    {
+      "name": "EvalShift",
+      "category": "LLM Evaluation Frameworks",
+      "availability": "open-source",
+      "primary_url": "https://github.com/evalshift/evalshift-cli",
+      "description": "EvalShift is an open-source CLI for regression testing LLM model migrations: it runs a baseline and a candidate model over the same test suite (hand-written or captured from production agent runs) and reports paired statistical comparisons of outputs and tool calls, with a GitHub Action for CI gating.",
       "secondary_links": [],
       "status": "active"
     },
